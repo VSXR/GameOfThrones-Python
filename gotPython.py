@@ -4,8 +4,8 @@ from collections import Counter
 from statistics import mean, variance
 
 PREPOSITIONS = {
-    "to", "before", "under", "with", "against", "from", "since", "in", "between",
-    "towards", "until", "for", "by", "according", "without", "under", "on", "after"
+    "a", "antes", "debajo", "con", "contra", "desde", "desde", "en", "entre",
+    "hacia", "hasta", "para", "por", "según", "sin", "bajo", "sobre", "después"
 }
 
 # ------------------------------------------------------
